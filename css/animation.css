@@ -57,7 +57,15 @@
     -moz-transition: all 0.5s;
     transition: all 0.5s;
   }
-  
+   h3 a{
+    color:hsl(214, 81%, 47%);
+    font-family:pacifico;
+  }
+  h3 a:hover{
+    -webkit-animation: neon1 1.5s ease-in-out infinite alternate;
+    -moz-animation: neon1 1.5s ease-in-out infinite alternate;
+    animation: neon1 1.5s ease-in-out infinite alternate; 
+  }
   p:nth-child(1) a{
     color:hsl(214, 81%, 47%);
     font-family:Monoton;
