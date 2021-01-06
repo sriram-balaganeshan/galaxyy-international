@@ -8,8 +8,8 @@
 
  p{
     text-align:center;
-    
-    margin:20px 10px 20px 10px; 
+    font-size:7em;
+    padding-left:5pt; right:5pt; top:7pt;
   }
   
 a{
@@ -21,7 +21,7 @@ a{
   #animation1  p a{
     color:hsl(214, 81%, 47%);
     font-family:Monoton;
-    font-size:4em;
+    
   }
   #animation1 
   p a:hover{
@@ -33,7 +33,7 @@ a{
     p a{
     color: hsl(150, 45%, 33%);
     font-family:Monoton;
-      font-size:3em;
+      
   }
    #animation2 
   p a:hover{
