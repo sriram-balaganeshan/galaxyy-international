@@ -230,7 +230,7 @@ header .navbar {
    Home page style
    ================= */
 #banner {
-  background: url('../img/galaxy.jpg');
+  background: url('../img/images/galaxy.jpg');
   background-size: cover;
   padding: 250px 0;
   position: relative;
