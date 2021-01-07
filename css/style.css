@@ -87,7 +87,7 @@ a:active {
   padding-bottom: 70px;
 }
 .title h2 {
-  color: #333;
+  color: #ffffff;
   font-size: 25px;
   padding-bottom: 25px;
   text-transform: uppercase;
@@ -835,6 +835,10 @@ body {
 #team .block img {
   width: 100%;
   position: relative;
+}
+#founder p,h1,h2,h3{
+  color: #ffffff;
+
 }
 
 #team .block:hover {
