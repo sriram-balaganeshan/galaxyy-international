@@ -248,7 +248,8 @@ header .navbar {
 
 body {
   background-image:url(http://solarscroller.rhettforbes.com/img/stars.jpg);
-  
+  padding-right: 15px;
+    padding-left: 15px;
   background-color:#000;
   
   -webkit-animation: sky 82s linear infinite;
