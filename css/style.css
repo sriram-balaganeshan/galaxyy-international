@@ -166,7 +166,7 @@ header {
   background: #fff;
 }
 header .navbar {
-  height: auto;
+  
   margin-bottom: 0;
 }
 .is-sticky #navigation {
@@ -175,6 +175,13 @@ header .navbar {
   transition: 0.3s;
   width: 100%;
   padding: 0;
+}
+.navbar-fixed-bottom, .navbar-fixed-top {
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+    height: 70px;
 }
 .navbar-brand {
   padding: 0;
